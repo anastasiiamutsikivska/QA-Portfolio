@@ -1,45 +1,62 @@
-# Portfolio template
-
-Software Tester Portfolio Example - SamaSobiTester  :nerd_face:
-
+# Junior QA Engineer Portfolio
 
 ## ABOUT ME
-> [!TIP]
-> Use the following questions to write your summary
-- [x] Who are you?  
-- [ ] Why do you love being a software tester? Why do you switch your career?   
-- [ ] What is your previous experience and how it is useful in QA?  
-- [ ] What are your skills and tools?  
+
+Hi! I'm Anastasiia, a Junior QA Engineer with hands-on experience in web and API testing.
+
+What interests me most about QA is understanding how a product works, identifying potential issues, and making sure it meets expected requirements. Through my QA training and practical projects, I have gained experience in creating and executing test cases, preparing checklists and test documentation, reporting bugs, and testing REST APIs.
+
+My previous experience involved communication, coordination, documentation, and problem-solving. It helped me develop strong attention to detail, responsibility, organizational skills, and the ability to communicate effectively with different people.
+
+I work with Jira, Postman, Swagger, MySQL, Chrome DevTools, Git, and GitHub. I continue developing my QA skills through hands-on projects, courses, and self-learning.  
 
 ## TOOLS 
-> [!NOTE]
-> (Mention tools you used on different projects or testing various websites)  
 
- - **Jira** - bug tracker  
- - **Trello** - project management  
- - **TestRail** - test cases management  
- - **Slack**, **Skype**, **Zoom**, **Teams** - for communication within the team  
- - **Chrome DevTools** - for testing and to improve bug reports  
- - **Git**, **GitHub** - for version control  
- - **MySQL** - relational database management system  
- - **Postman** - API testing  
- - **Cucumber** - software supporting behaviour-driven development  
- - **Selenium WebDriver** - for automated testing of web applications  
- - **Java**, **Python**, **JavaScript** basics  
- - **HTML/CSS** basics  
- - **IntelliJ IDEA**, **PyCharm**, **Visual Studio Code** - development environment  
+- **Jira** - bug tracking and bug reporting
+- **Postman** - REST API testing
+- **Swagger** - API documentation and endpoint testing
+- **MySQL** - database queries and data validation
+- **Chrome DevTools** - web application testing and debugging
+- **Git & GitHub** - version control and project documentation
 
 ## TECH SKILLS
-> [!IMPORTANT]
-> (Describe your knowledge like Manual testing, DevTools knowledge, SQL, API testing, ISTQB knowledge, etc.)  
 
-## SOFT SKILLS 
-> [!IMPORTANT]
-> (Describe your character as a candidate: proactive approach, self-motivated and well-organized, etc)  
+- Software testing fundamentals: SDLC, STLC, testing levels and testing types
+- Test documentation: test cases, checklists, bug reports, test plans and RTM
+- Test design techniques: Equivalence Partitioning, Boundary Value Analysis, Decision Tables and State Transition Testing
+- REST API testing: HTTP methods, status codes, request/response validation and CRUD operations
+- SQL: basic queries for data retrieval and validation
+- Web testing: Chrome DevTools, cookies, cache and client-server basics
+- Bug life cycle, severity and priority
+- Agile/Scrum basics 
+
+## SOFT SKILLS
+
+- Detail-oriented
+- Well-organized
+- Strong communication skills
+- Problem-solving
+- Adaptable and quick to learn
+- Able to work under pressure 
 
 ## PROJECTS and TEST DOCUMENTATION 
-> [!IMPORTANT]
-> (Name of the project you participated in, when, your responsibilities and tasks)  
+
+
+### File Upload Testing
+
+Testing of a web file upload functionality on The Internet application.
+
+**What I did:**
+- Created a test plan
+- Prepared checklists and test data
+- Executed functional positive and negative test scenarios
+- Created a test run and documented test results
+- Reported 3 bugs
+- Used Chrome DevTools Network tab to investigate failed requests and verify HTTP 500 responses
+
+**Tools:** Chrome DevTools, Excel
+
+**Test documentation:** [View project files](LINK)
 
 ## COURSES 
 > [!IMPORTANT]
