@@ -56,7 +56,7 @@ Testing of a web file upload functionality on The Internet application.
 
 **Tools:** Chrome DevTools, Excel
 
-**Test documentation:** [View project files](LINK)
+**Test documentation:** [View project files](File_Upload_Test.xlsx)
 
 ## COURSES 
 > [!IMPORTANT]
