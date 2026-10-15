@@ -58,6 +58,28 @@ Testing of a web file upload functionality on The Internet application.
 
 **Test documentation:** [View project files](File_Upload_Test.xlsx)
 
+
+### Alo Yoga Web Testing
+
+Manual testing of the Alo Yoga e-commerce website.
+
+**What I did:**
+- Analyzed functional requirements
+- Created a Test Plan
+- Created a Requirements Traceability Matrix (RTM)
+- Created and executed test cases
+- Prepared test data
+- Documented test results
+- Identified project risks
+
+**Testing areas:**
+- Home Page
+- Registration
+- Sign In
+- Shopping Cart
+
+**Test documentation:** [View project files](Alo_Yoga_Testing.xlsx)
+
 ## COURSES 
 > [!IMPORTANT]
 > (Courses you accomplished: when, name of the course, short description)  
